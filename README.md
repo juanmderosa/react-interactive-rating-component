@@ -16,8 +16,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-with-react-js-FmQ1soZAPs)
-- Live Site URL: [Live Site](https://juanmderosa.github.io/react-interactive-rating-component/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-with-react-js-FmQ1soZAPs)
+- Live Site URL: [Github Pages](https://juanmderosa.github.io/react-interactive-rating-component/)
 
 ### Built with
 
@@ -31,5 +31,5 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ## Author
 
 - Website - [Juan Martín De Rosa](https://juanmderosa-developer.com/)
-- Frontend Mentor - [@juanmderosa](https://www.frontendmentor.io/profile/yourusername)
-- Linkedin - [@juanmderosa](https://www.linkedin.com/in/juanmderosa/
+- Frontend Mentor - [@juanmderosa](https://www.frontendmentor.io/profile/juanmderosa)
+- Linkedin - [Juan Martín De rosa](https://www.linkedin.com/in/juanmderosa/)
